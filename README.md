@@ -6,8 +6,6 @@ Everything here is meant to be read, copied, and adapted. When a post references
 
 Read the publication: https://the2act.substack.com/p/my-second-act-what-30-years-in-enterprise
 
-> Replace the link above with your live Substack URL.
-
 ## How this repo is organized
 
 One folder per post. Each folder is named with a short slug, is self-contained, and carries its own README that explains the files and links back to the post they came from. You can grab a single folder without needing anything else in the repo.
